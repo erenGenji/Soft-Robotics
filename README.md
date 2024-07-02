@@ -50,6 +50,10 @@ simplified Diagram
 
 - Soft Robotics (WIP)
 
+## Team Members
+- lead
+- ll
+
 
 ## Functionalities
 
