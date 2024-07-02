@@ -46,6 +46,10 @@ simplified Diagram
 - Develop a robot that can maneuver easily
 - Develop a robot that can retrieve items
 
+## Our Solution
+
+- Soft Robotics (WIP)
+
 
 ## Functionalities
 
