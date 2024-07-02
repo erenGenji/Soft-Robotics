@@ -1,6 +1,8 @@
 # Soft-Robotics FUKUSHIMA-HAIRO project
 ## Mission 
 
+https://github.com/erenGenji/Soft-Robotics/issues/2#issue-2386668000
+
 ![WhatsApp Image 2024-06-20 at 10 49 03_89ab0c72](https://github.com/erenGenji/Soft-Robotics/assets/85977401/3c5dc996-63f5-416e-adff-2aa6e8ba8744)
 
 This competition simulates an investigation inside the containment vessel 
