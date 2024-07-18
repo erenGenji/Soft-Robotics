@@ -13,8 +13,11 @@ bottom, and returning to the PCV.
 Project Lead: Ameer, Abrar
 
 Programming team lead : Radowan
+
 Electronics Team Lead : Henry
+
 Fabrication Team lead : Ameer
+
 Design Team lead: Seth
 
 
