@@ -6,6 +6,19 @@ investigation will be conducted by accessing the inside of the PCV through the
 X-1 penetration or small-diameter piping, retrieving objects present at the 
 bottom, and returning to the PCV. 
 
+
+
+## Team Members
+
+Project Lead: Ameer, Abrar
+
+Programming team lead : Radowan
+Electronics Team Lead : Henry
+Fabrication Team lead : Ameer
+Design Team lead: Seth
+
+
+
 ## Mission 
 
 ![Screenshot 2024-07-03 001732](https://github.com/erenGenji/Soft-Robotics/assets/85977401/3405a23b-8e01-467a-b081-a3e12796388d)
@@ -50,11 +63,10 @@ simplified Diagram
 
 - Soft Robotics (WIP)
 
-## Team Members
-- lead
-- ll
-
-
 ## Functionalities
+ 
+
+
+
 
 
